@@ -1,0 +1,16 @@
+.optionsBtn {
+    border-radius: 30px;
+    background-color: brown;
+    
+    
+   
+}
+.optionsBtn:hover {
+    background-color: cadetblue;
+    color: coral;
+    box-shadow: 3px 3px 10px 0px rgba(34, 60, 80, 0.61);
+    
+}
+.optionsBtn:not(:last-child) {
+    margin-right: 10px;
+  }
